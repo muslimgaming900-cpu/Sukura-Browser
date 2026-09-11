@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sakura Browser by MuslimGaming69</string>
+    <string name="browser_title">Sakura Browser</string>
+    <string name="browser_subtitle">Zero Cache • Zero History</string>
+    <string name="search_hint">Search or type URL…</string>
+    <string name="action_nuke">Purge Session</string>
+    <string name="action_nuke_desc">Wipe all cookies, session storage, and RAM cache</string>
+    <string name="zero_trace_status">0-Trace Shield Active</string>
+</resources>

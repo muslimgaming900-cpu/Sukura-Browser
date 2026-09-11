@@ -1,0 +1,6 @@
+{
+  "name": "Sakura Browser by MuslimGaming69",
+  "description": "A private ephemeral web browser with zero cache, no history tracking, and a glassy obsidian dark-green aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
